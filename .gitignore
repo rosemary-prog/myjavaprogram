@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
-
+*.bat
+*.txt
 # Log file
 *.log
 
